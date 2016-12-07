@@ -1,0 +1,39 @@
+this is the method: GET.
+This is the path: /documents/coolstuff.md/display
+this is the method: GET.
+This is the path: /documents/coolstuff.md/display
+this is the method: GET.
+This is the path: /documents/coolstuff.md/display
+this is the method: GET.
+This is the path: /documents/coolstuff.md/display
+this is the method: GET.
+This is the path: /documents/coolstuff.md/display
+this is the method: GET.
+This is the path: /documents/coolstuff.md/display
+this is the method: GET.
+This is the path: /documents/coolstuff.md/display
+method: GET  path: /documents/coolstuff.md/display  date: Wed Dec 07 2016 11:49:56 GMT-0500 (EST)
+method: PUT  path: /documents/coolstuff.md  date: Wed Dec 07 2016 12:48:21 GMT-0500 (EST)
+method: PUT  path: /documents/coolstuff.md  date: Wed Dec 07 2016 12:50:26 GMT-0500 (EST)
+method: PUT  path: /documents/morecoolstuff.md  date: Wed Dec 07 2016 12:51:53 GMT-0500 (EST)
+method: PUT  path: /documents/evenmorecoolstuff.md  date: Wed Dec 07 2016 12:53:34 GMT-0500 (EST)
+method: PUT  path: /documents/somuchcoolstuff.md  date: Wed Dec 07 2016 12:55:20 GMT-0500 (EST)
+method: PUT  path: /documents/notcoolstuff.md  date: Wed Dec 07 2016 13:02:02 GMT-0500 (EST)
+method: GET  path: /documents/coolstuff.md/display  date: Wed Dec 07 2016 13:10:50 GMT-0500 (EST)
+method: GET  path: /documents/coolstuff.md  date: Wed Dec 07 2016 13:12:13 GMT-0500 (EST)
+method: GET  path: /documents/morecoolstuff.md  date: Wed Dec 07 2016 13:12:22 GMT-0500 (EST)
+method: GET  path: /documents/coolstuff.md/display  date: Wed Dec 07 2016 13:15:41 GMT-0500 (EST)
+method: GET  path: /documents/coolstuff.md/display  date: Wed Dec 07 2016 13:16:24 GMT-0500 (EST)
+method: GET  path: /documents/coolstuff.md/display  date: Wed Dec 07 2016 13:17:08 GMT-0500 (EST)
+method: GET  path: /documents/  date: Wed Dec 07 2016 13:20:59 GMT-0500 (EST)
+method: GET  path: /documents/  date: Wed Dec 07 2016 13:22:06 GMT-0500 (EST)
+method: GET  path: /documents/  date: Wed Dec 07 2016 13:23:41 GMT-0500 (EST)
+method: GET  path: /documents/  date: Wed Dec 07 2016 13:25:47 GMT-0500 (EST)
+method: GET  path: /documents/  date: Wed Dec 07 2016 13:26:18 GMT-0500 (EST)
+method: GET  path: /documents/  date: Wed Dec 07 2016 13:26:39 GMT-0500 (EST)
+method: GET  path: /documents/  date: Wed Dec 07 2016 13:28:44 GMT-0500 (EST)
+method: DELETE  path: /documents/coolstuff.md  date: Wed Dec 07 2016 13:32:17 GMT-0500 (EST)
+method: DELETE  path: /documents/coolstuff.md  date: Wed Dec 07 2016 13:32:51 GMT-0500 (EST)
+method: DELETE  path: /documents/coolstuff.md  date: Wed Dec 07 2016 13:34:40 GMT-0500 (EST)
+method: PUT  path: /signup  date: Wed Dec 07 2016 13:52:37 GMT-0500 (EST)
+method: PUT  path: /signup  date: Wed Dec 07 2016 13:54:03 GMT-0500 (EST)
